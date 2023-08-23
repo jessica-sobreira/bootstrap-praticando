@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+
+.imagem-carrossel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 500px;
+}
+
+.imagem-carrossel-dois {
+    object-fit: cover;
+    height: 500px;
+}
+
+.imagem-carrossel-tres {
+    object-fit: cover;
+    height: 500px;
+}
