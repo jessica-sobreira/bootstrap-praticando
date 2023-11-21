@@ -1,6 +1,7 @@
 # Padaria
 
-![Padaria](./images/padaria-preview.jpg)
+![screencapture-file-C-Users-aaa-bootstrap-praticando-site-bootstrap-index-html-2023-11-21-18_45_16](https://github.com/jessica-sobreira/bootstrap-praticando/assets/117686537/764a0a02-e89f-4a85-a97b-392fa504fbae)
+
 
 Este é um projeto de site para uma padaria, desenvolvido como parte do curso da Growdev. O site possui uma barra de navegação, um carrossel de imagens, seção de produtos com cards, uma seção de festas e uma seção de perguntas frequentes.
 
